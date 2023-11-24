@@ -1,0 +1,44 @@
+{
+  "greetings": "Hello {username}",
+  "@greetings": {
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "searchHint": "Songs, albums or artist",
+  "lastSession": "Last Session",
+  "todayRecommendations": "Today Recommendations",
+  "newRelease": "New release",
+  "guest": "Guest",
+  "following": "Following",
+  "topTracks": "Top Tracks",
+  "discography": "Discography",
+  "albums": "Albums",
+  "followers": "Followers",
+  "buttonText": "Follow",
+  "yourLibrary": "Your Library",
+  "lib_songs": "Songs",
+  "lib_albums": "Albums",
+  "lib_artists": "Artists",
+  "settings": "Settings",
+  "username": "{Username}",
+  "@username": {
+    "placeholders": {
+      "Username": {
+        "type": "String"
+      }
+    }
+  },
+  "display": "Display",
+  "theme": "Theme",
+  "lightTheme": "Light",
+  "darkTheme": "Dark",
+  "language": "Language",
+  "english": "English",
+  "vietnamese": "Vietnamese",
+  "account": "Account",
+  "changePassword": "Change password",
+  "logOut": "Log out"
+}

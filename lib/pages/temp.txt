@@ -1,0 +1,69 @@
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  SizedBox(
+                    key: _keyStageName,
+                    height: MediaQuery.of(context).size.height * 0.23,
+                  ),
+                  const Text(
+                    "ARTIST_STAGE_NAME",
+                    style: TextStyle(
+                      fontSize: 36,
+                      fontWeight: FontWeight.w800,
+                    ),
+                  ),
+                  SizedBox(
+                      height: MediaQuery.of(context).size.height * 0.23 * 0.07),
+                  const Text(
+                    "Monthy listeners",
+                    style: TextStyle(
+                      fontSize: 12,
+                    ),
+                  ),
+                  ElevatedButton(
+                      onPressed: () {},
+                      child: const Text("Following"),
+                      style: const ButtonStyle(
+                          backgroundColor:
+                              MaterialStatePropertyAll(Colors.green),
+                          shape: MaterialStatePropertyAll(
+                              RoundedRectangleBorder(
+                                  borderRadius:
+                                      BorderRadius.all(Radius.circular(3)),side: BorderSide(color: Colors.white,width: 2))))),
+                  const Text("Top tracks", style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),),
+                  SizedBox(
+                    width: MediaQuery.of(context).size.width,
+                    child: ListView.builder(
+                        shrinkWrap: true,
+                        physics: const NeverScrollableScrollPhysics(),
+                        itemCount: 5,
+                        itemBuilder: (context, index) {
+                          return Container(
+                            margin: const EdgeInsets.all(6),
+                            color: Colors.green,
+                            height: 90,
+                            child: Text("${index}"),
+                          );
+                        }),
+                  ),
+                  const Text("Discography",style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),),
+                  SizedBox(
+                    width: MediaQuery.of(context).size.width,
+                    height: MediaQuery.of(context).size.height * 0.4,
+                    child: GridView.builder(
+                        scrollDirection: Axis.horizontal,
+                        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                          crossAxisCount: 2,
+                          childAspectRatio: 1,
+                        ),
+                        itemCount: 16,
+                        itemBuilder: (context, int) {
+                          return Container(
+                            margin: const EdgeInsets.all(6),
+                            color: Colors.green,
+                            height: MediaQuery.of(context).size.height * 0.3,
+                          );
+                        }),
+                  )
+                ],
+              ),

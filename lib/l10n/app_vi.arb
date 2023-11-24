@@ -1,0 +1,38 @@
+{
+  "@@locale": "vi",
+  "greetings": "Xin chào {username}",
+  "@greetings": {
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "searchHint": "Bài hát, album hoặc nghệ sĩ",
+  "lastSession": "Gần đây",
+  "todayRecommendations": "Gợi ý hôm nay",
+  "newRelease": "Phát hành mới",
+  "guest": "Khách",
+  "following": "Đang theo dõi",
+  "topTracks": "Những bài hát nổi bật",
+  "discography": "Đĩa nhạc",
+  "albums": "Albums",
+  "followers": "Người theo dõi",
+  "buttonText": "Theo dõi",
+  "yourLibrary": "Thư viện của bạn",
+  "lib_songs": "Bài hát",
+  "lib_albums": "Album",
+  "lib_artists": "Nghệ sĩ",
+  "settings": "Cài đặt",
+  "username": "{Username}",
+  "display": "Hiển thị",
+  "theme": "Chủ đề",
+  "lightTheme": "Sáng",
+  "darkTheme": "Tối",
+  "language": "Ngôn ngữ",
+  "english": "Tiếng Anh",
+  "vietnamese": "Tiếng Việt",
+  "account": "Tài khoản",
+  "changePassword": "Đổi mật khẩu",
+  "logOut": "Đăng xuất"
+}

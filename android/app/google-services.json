@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73025343226",
+    "project_id": "music-browser-app-ab50d",
+    "storage_bucket": "music-browser-app-ab50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73025343226:android:5686b0b35f40861b0ac343",
+        "android_client_info": {
+          "package_name": "com.example.music_browser_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsbvxjWqbWHlKQ3TwooFecSid5VmyX08w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

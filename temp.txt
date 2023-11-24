@@ -1,0 +1,784 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+            "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+            "name": "AKMU",
+            "type": "artist",
+            "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
+        },
+        "href": "https://api.spotify.com/v1/albums/47xcjDSi1t6pQE2RvXKdUF",
+        "id": "47xcjDSi1t6pQE2RvXKdUF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a75d7535b8657385f8232449",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a75d7535b8657385f8232449",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Love Lee",
+        "release_date": "2023-08-21",
+        "release_date_precision": "day",
+        "total_tracks": 2,
+        "type": "album",
+        "uri": "spotify:album:47xcjDSi1t6pQE2RvXKdUF"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+          "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+          "name": "AKMU",
+          "type": "artist",
+          "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 179683,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "KRA402300033"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1qosh64U6CR5ki1g1Rf2dZ",
+      "id": "1qosh64U6CR5ki1g1Rf2dZ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Love Lee",
+      "popularity": 81,
+      "preview_url": "https://p.scdn.co/mp3-preview/d727c95b435a47d0cb07e7cec4e24c02760018cb?cid=9549d712f61642b48ee3d16728aa89b0",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1qosh64U6CR5ki1g1Rf2dZ"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+            "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+            "name": "AKMU",
+            "type": "artist",
+            "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
+        },
+        "href": "https://api.spotify.com/v1/albums/1eu07xRE0vQfN5et0Y3DAy",
+        "id": "1eu07xRE0vQfN5et0Y3DAy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0278551e802bd7b81d7af67dfb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485178551e802bd7b81d7af67dfb",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "PLAY",
+        "release_date": "2014-04-07",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:1eu07xRE0vQfN5et0Y3DAy"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+          "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+          "name": "AKMU",
+          "type": "artist",
+          "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 176532,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "KRB471400413"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2A3ShNautqXezP1lFDePwa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2A3ShNautqXezP1lFDePwa",
+      "id": "2A3ShNautqXezP1lFDePwa",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Give Love",
+      "popularity": 68,
+      "preview_url": "https://p.scdn.co/mp3-preview/6917533ca0de1760ab6a6a5f7d4db22f7470c28b?cid=9549d712f61642b48ee3d16728aa89b0",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2A3ShNautqXezP1lFDePwa"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+            "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+            "name": "AKMU",
+            "type": "artist",
+            "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn"
+        },
+        "href": "https://api.spotify.com/v1/albums/7C0Ci0alKWwwXPIFYEdVcn",
+        "id": "7C0Ci0alKWwwXPIFYEdVcn",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d41cdd1f3e033a0ea1642112",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d41cdd1f3e033a0ea1642112",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "SAILING",
+        "release_date": "2019-09-25",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:7C0Ci0alKWwwXPIFYEdVcn"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+          "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+          "name": "AKMU",
+          "type": "artist",
+          "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 290095,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "KRA401900217"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0hqj5JBnFt1BHEz2UCFwrl",
+      "id": "0hqj5JBnFt1BHEz2UCFwrl",
+      "is_local": false,
+      "is_playable": true,
+      "name": "How can I love the heartbreak, you're the one I love",
+      "popularity": 67,
+      "preview_url": "https://p.scdn.co/mp3-preview/c204b7f258d067806c4c432ddfe452b37fec7f73?cid=9549d712f61642b48ee3d16728aa89b0",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0hqj5JBnFt1BHEz2UCFwrl"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+            "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+            "name": "AKMU",
+            "type": "artist",
+            "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6nvvOIQoyryvZjr7baMuXP"
+        },
+        "href": "https://api.spotify.com/v1/albums/6nvvOIQoyryvZjr7baMuXP",
+        "id": "6nvvOIQoyryvZjr7baMuXP",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732b0e9f9b2ec8b5cfc24a958b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022b0e9f9b2ec8b5cfc24a958b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512b0e9f9b2ec8b5cfc24a958b",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "SUMMER EPISODE",
+        "release_date": "2017-07-20",
+        "release_date_precision": "day",
+        "total_tracks": 2,
+        "type": "album",
+        "uri": "spotify:album:6nvvOIQoyryvZjr7baMuXP"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+          "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+          "name": "AKMU",
+          "type": "artist",
+          "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240571,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "KRA401700205"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/49KDK2ccYnOCYPeXfDO3YT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/49KDK2ccYnOCYPeXfDO3YT",
+      "id": "49KDK2ccYnOCYPeXfDO3YT",
+      "is_local": false,
+      "is_playable": true,
+      "name": "DINOSAUR",
+      "popularity": 65,
+      "preview_url": "https://p.scdn.co/mp3-preview/cacc7b98df090f7a981956db21d82519bfeace80?cid=9549d712f61642b48ee3d16728aa89b0",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:49KDK2ccYnOCYPeXfDO3YT"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+            "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+            "name": "AKMU",
+            "type": "artist",
+            "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
+        },
+        "href": "https://api.spotify.com/v1/albums/47xcjDSi1t6pQE2RvXKdUF",
+        "id": "47xcjDSi1t6pQE2RvXKdUF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a75d7535b8657385f8232449",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a75d7535b8657385f8232449",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Love Lee",
+        "release_date": "2023-08-21",
+        "release_date_precision": "day",
+        "total_tracks": 2,
+        "type": "album",
+        "uri": "spotify:album:47xcjDSi1t6pQE2RvXKdUF"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+          "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+          "name": "AKMU",
+          "type": "artist",
+          "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204576,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "KRA402300034"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6f4CAdAmrOfGH3FOfwHMSV",
+      "id": "6f4CAdAmrOfGH3FOfwHMSV",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Fry’s Dream",
+      "popularity": 65,
+      "preview_url": "https://p.scdn.co/mp3-preview/89982dfa4f2b2b1dc930c28fb5d22b0e2d0e9e7f?cid=9549d712f61642b48ee3d16728aa89b0",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6f4CAdAmrOfGH3FOfwHMSV"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+            "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+            "name": "AKMU",
+            "type": "artist",
+            "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
+        },
+        "href": "https://api.spotify.com/v1/albums/1eu07xRE0vQfN5et0Y3DAy",
+        "id": "1eu07xRE0vQfN5et0Y3DAy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0278551e802bd7b81d7af67dfb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485178551e802bd7b81d7af67dfb",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "PLAY",
+        "release_date": "2014-04-07",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:1eu07xRE0vQfN5et0Y3DAy"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+          "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+          "name": "AKMU",
+          "type": "artist",
+          "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 193321,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "KRB471400414"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6qkx0tenDglbF21CU4wa1k",
+      "id": "6qkx0tenDglbF21CU4wa1k",
+      "is_local": false,
+      "is_playable": true,
+      "name": "200%",
+      "popularity": 63,
+      "preview_url": "https://p.scdn.co/mp3-preview/7f3b1a226d83b86924194c89aff6d92d840bef4d?cid=9549d712f61642b48ee3d16728aa89b0",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6qkx0tenDglbF21CU4wa1k"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+            "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+            "name": "AKMU",
+            "type": "artist",
+            "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/64rRqNRtmidUNpKFJcNFEz"
+        },
+        "href": "https://api.spotify.com/v1/albums/64rRqNRtmidUNpKFJcNFEz",
+        "id": "64rRqNRtmidUNpKFJcNFEz",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273136af5b44038501ae3662980",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02136af5b44038501ae3662980",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851136af5b44038501ae3662980",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 12",
+        "release_date": "2016-10-11",
+        "release_date_precision": "day",
+        "total_tracks": 2,
+        "type": "album",
+        "uri": "spotify:album:64rRqNRtmidUNpKFJcNFEz"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+          "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+          "name": "AKMU",
+          "type": "artist",
+          "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 186749,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "KRA491600646"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7IRZ9aTBu35je2AHT2LxvL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7IRZ9aTBu35je2AHT2LxvL",
+      "id": "7IRZ9aTBu35je2AHT2LxvL",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Be With You",
+      "popularity": 59,
+      "preview_url": "https://p.scdn.co/mp3-preview/36c4c760ea4226fb2c37f258a130986676ceb68a?cid=9549d712f61642b48ee3d16728aa89b0",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7IRZ9aTBu35je2AHT2LxvL"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+            "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+            "name": "AKMU",
+            "type": "artist",
+            "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
+        },
+        "href": "https://api.spotify.com/v1/albums/0Pt0eGpyNO5dDN8PORypSy",
+        "id": "0Pt0eGpyNO5dDN8PORypSy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0255d0265cc488deebe40d79a6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485155d0265cc488deebe40d79a6",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "NEXT EPISODE",
+        "release_date": "2021-07-26",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:0Pt0eGpyNO5dDN8PORypSy"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+          "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+          "name": "AKMU",
+          "type": "artist",
+          "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HqSLMAZ3g3d5poNaI7GOU",
+          "id": "3HqSLMAZ3g3d5poNaI7GOU",
+          "name": "IU",
+          "type": "artist",
+          "uri": "spotify:artist:3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 212807,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "KRA402100091"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4t2FIqZJORKZGSKg30SShr",
+      "id": "4t2FIqZJORKZGSKg30SShr",
+      "is_local": false,
+      "is_playable": true,
+      "name": "NAKKA (with IU)",
+      "popularity": 59,
+      "preview_url": "https://p.scdn.co/mp3-preview/3ad087cc7c69640bc745eeb08f1b1793ff834e23?cid=9549d712f61642b48ee3d16728aa89b0",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4t2FIqZJORKZGSKg30SShr"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+            "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+            "name": "AKMU",
+            "type": "artist",
+            "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
+        },
+        "href": "https://api.spotify.com/v1/albums/0xrAlQfw3MZ5QGhw2NptQt",
+        "id": "0xrAlQfw3MZ5QGhw2NptQt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c2b47cdd775a9b22f137847d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c2b47cdd775a9b22f137847d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c2b47cdd775a9b22f137847d",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "WINTER",
+        "release_date": "2017-01-03",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:0xrAlQfw3MZ5QGhw2NptQt"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+          "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+          "name": "AKMU",
+          "type": "artist",
+          "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 283800,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "KRA401600313"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0x50cQ1pZeV4xl737GhKBk",
+      "id": "0x50cQ1pZeV4xl737GhKBk",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Last Goodbye",
+      "popularity": 56,
+      "preview_url": "https://p.scdn.co/mp3-preview/89bd80e03981e7ba50eefff0e253cb5b35b8d8f3?cid=9549d712f61642b48ee3d16728aa89b0",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0x50cQ1pZeV4xl737GhKBk"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+            },
+            "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+            "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+            "name": "AKMU",
+            "type": "artist",
+            "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn"
+        },
+        "href": "https://api.spotify.com/v1/albums/7C0Ci0alKWwwXPIFYEdVcn",
+        "id": "7C0Ci0alKWwwXPIFYEdVcn",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d41cdd1f3e033a0ea1642112",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d41cdd1f3e033a0ea1642112",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "SAILING",
+        "release_date": "2019-09-25",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:7C0Ci0alKWwwXPIFYEdVcn"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6OwKE9Ez6ALxpTaKcT5ayv",
+          "id": "6OwKE9Ez6ALxpTaKcT5ayv",
+          "name": "AKMU",
+          "type": "artist",
+          "uri": "spotify:artist:6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 180527,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "KRA401900222"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Tn3BfNkoQio5yL0ZbO2z8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1Tn3BfNkoQio5yL0ZbO2z8",
+      "id": "1Tn3BfNkoQio5yL0ZbO2z8",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Endless dream, good night",
+      "popularity": 54,
+      "preview_url": "https://p.scdn.co/mp3-preview/b243e0179bdc26a48c0e26ccf1f76a5ecf591285?cid=9549d712f61642b48ee3d16728aa89b0",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1Tn3BfNkoQio5yL0ZbO2z8"
+    }
+  ]
+}
